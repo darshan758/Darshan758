@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi, I'm Darshan M, an engineering student and aspiring Software Engineer interested in Full Stack Development and problem solving.
 
-<!--
-**darshan758/Darshan758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
+🎓 Engineering student
+💻 Aspiring Software Engineer
+🌐 Interested in Full Stack Development
+☕ Practicing Java and DSA
+⚛️ Building applications with React and Node.js
+🗄️ Working with MySQL and MongoDB
+🚀 Currently building projects for real-world applications
+📈 Preparing for software development placements
 
-Here are some ideas to get you started:
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+
+Java  JavaScript SQL
+
+Frontend
+
+HTML CSS React.js Bootstrap
+
+Backend
+
+Node.js Express.js
+
+Database
+
+MySQL MongoDB
+
+Tools
+
+Git GitHub VS Code Postman
+
+Featured Projects
+
+This is where we showcase your best projects, not everything you've ever built.
+
+I'd currently prioritize:
+
+1. Smart Village Management System
+React + Node.js + Express + MongoDB
+
+2. Online Food Ordering Website
+React+Node
+
+🎯 Career Goal:
+I am looking to start my career as a Software Engineer / Full Stack Developer where I can apply my problem-solving skills, build scalable applications, and continue learning modern software development technologies.
+
+Leetcode : https://leetcode.com/u/Darshan--m/
+GeeksforGeeks : https://www.geeksforgeeks.org/profile/darshannwmly
+Add LinkedIn: https://www.linkedin.com/in/darshan-m-256604307/
