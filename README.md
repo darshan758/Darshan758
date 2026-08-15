@@ -104,24 +104,6 @@ Developed a full-stack smart village service portal that helps citizens report a
 
 ---
 
-### 🏛️ Crowdsourced Civic Issue Detection
-
-**Tech Stack:** React.js • Node.js • MongoDB
-
-Developed a civic issue reporting platform that allows citizens to upload complaints with images, descriptions, and location details.
-
-**Key Features:**
-
-* User authentication
-* Civic issue reporting
-* Image and location-based complaint submission
-* REST APIs
-* MongoDB database
-* Admin dashboard
-* Issue status management including **Resolved, In Progress, and Rejected**
-
----
-
 ## 🎯 Career Goal
 
 I am looking to start my career as a **Software Engineer / Full Stack Developer** where I can apply my problem-solving skills, build scalable applications, and continue learning modern software development technologies.
